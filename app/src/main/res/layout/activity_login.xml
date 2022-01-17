@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="example.javatpoint.com.volleyregistrationloginsystem.LoginActivity">
+    tools:context=".LoginActivity">
 
     <TextView
         android:layout_width="fill_parent"
@@ -30,7 +30,7 @@
         android:layout_marginTop="8dp"
         android:ems="10"
         android:inputType="textPersonName"
-        android:hint="user name"
+        android:hint="Mobile Number"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
